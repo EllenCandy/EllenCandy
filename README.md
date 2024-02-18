@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oiee eu sou a Ellen!
+Bem-vindo ao meu perfil, eu já estudei programação com a Alura e atualmente faço Ciência da computação na Universidade Estadual do Paraná
+trago aqui algumas das coisas que eu aprendo
 
-<!--
-**EllenCandy/EllenCandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ☁ Cybersec
+- 😊 Pronomes ela/dela
+- 🎨 Piano, RPG de mesa, Arte, Livros, Biologia
 
-Here are some ideas to get you started:
+## 👾 Skills
+|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|
+|--|--|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawndri&layout=compact&bg_color=00000000&title_color=86d9d1&text_color=bfbfbf&hide_border=true&card_width=500px&card_height=400px)
