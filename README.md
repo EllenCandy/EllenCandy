@@ -1,5 +1,5 @@
 ### Oiee eu sou a Ellen!
-Bem-vindo ao meu perfil, eu já estudei programação com a Alura e atualmente faço Ciência da computação na Universidade Estadual do Paraná,
+Bem-vindo ao meu perfil, eu já estudei programação com a Alura e atualmente faço Ciência da Computação na Universidade Estadual do Oeste do Paraná,
 trago aqui algumas das coisas que eu aprendo
 
 - ☁ Cybersec
